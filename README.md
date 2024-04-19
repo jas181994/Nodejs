@@ -1,2 +1,3 @@
 # Nodejs
-Node app
+
+This is a simple Node app
