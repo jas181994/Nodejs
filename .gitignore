@@ -3,7 +3,7 @@
 
 ### Node ###
 # Logs
-app_old
+app_old.js
 logs
 *.log
 npm-debug.log*
